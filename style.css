@@ -1,5 +1,8 @@
-#conteiner {
-    background-color: aliceblue;
-    margin-left: auto;
-    margin-right: auto;
+.container
+{
+    background: url(img/hexellence.png)
+}
+header
+{
+    text-align: center;
 }
